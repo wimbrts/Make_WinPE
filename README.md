@@ -1,8 +1,6 @@
 # Make_WinPE
 Make_WinPE - Make PE WIM File from x64 Windows ISO
 
-Make_WinPE - Make PE WIM File from x64 Windows ISO
-
 Manual for Windows 10/11 x64 OS - February 07, 2022
 
 1. Download:  Win10_2004_English_x64.iso      Or  Win11_English_x64v1.iso
