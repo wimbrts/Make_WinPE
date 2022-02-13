@@ -4,6 +4,7 @@ Make_WinPE - Make PE WIM File from x64 Windows ISO
 Manual:  for Windows 10/11 x64 OS
  
 1. Download:  Win10_2004_English_x64.iso      Or  Win11_English_x64v1.iso
+   from https://tb.rg-adguard.net/public.php  Or  https://www.microsoft.com/en-us/software-download/windows11
 2. Double-click on Win10_2004_English_x64.iso Or  Win11_English_x64v1.iso to Mount as DVD Drive
 3. Double-click Make_WinPE_Trusted.cmd to Launch Make_WinPE_x64.exe as Trusted Installer
 4. In Make_WinPE_x64 Select DVD Drive e.g. sources folder with boot.wim and install.wim files
