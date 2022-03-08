@@ -18,6 +18,17 @@ Manual:  for Windows 10/11 x64 OS
 9. On Desktop click on Run_PE_Tools to get Menu with Portable PE Tools e.g. WinNTSetup and BOOTICE
 10. On Desktop click on Run_System_Info for System_Info folder with Portable Tools and Option to Launch PStart Menu with Tools
 
+- LARGE is Explorer Shell Version with support for Win 10/11 x64 - Better Shell, but larger Size and more complicated to make ...
+- MEDIUM Version is Default - best performance for smaller size - 32-bits App + Microsoft Management Console (MMC) + WiFi Internet
+- SMALL Version has Ultimate Size Reduction, but less performance - Equal to MEDIUM Version, but missing 32-bits App support
+- Known Issue - MSPaint and Wordpad support in PE 10x64 require to Uncheck the Reduce WinSxS checkbox, which gives 40 MB increase in WIM Size
+
+All Versions have Picture + Sound + LAN Internet support and support Portable Apps - Run Apps via Desktop Icons or Launchbar
+Add_Drivers folder - Add your Drivers folders e.g. for your WiFi Network card
+
+Option to make Entry in Boot Manager Menu e.g.  Multi-Boot with your Internal Windows OS Or Multi-Boot USB - UEFI Secure + MBR BIOS Boot support
+Select Boot Drive and WinPE Drive e.g. the Drive where WIM file is located in WinPE folder.
+
 More Info: Make_WinPE - Make PE WIM File from x64 Windows ISO
 http://reboot.pro/index.php?showtopic=22608
  
