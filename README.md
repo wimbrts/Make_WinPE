@@ -34,3 +34,6 @@ Credits and Thanks to:
 
 - ChrisR - for making Win10XPE
   https://github.com/ChrisRfr/Win10XPE
+  
+- alacran for testing and helpful support and for sharing Desktop Links and SendTo Links and Launchbar for support of Portable Apps
+  http://reboot.pro/index.php?showtopic=22608&p=220827  and  http://reboot.pro/index.php?showtopic=22608&p=220862
