@@ -10,7 +10,7 @@ Manual:  for Windows 10/11 x64 OS
 4. In Make_WinPE_x64 Select DVD Drive e.g. sources folder with boot.wim and install.wim files
 5. Option to make BCD EFI and Boot Manager Menu entries to Boot with the created PE_19041_US.wim  Or  PE_22000_US.wim file
     Select Boot Drive and WinPE drive e.g. the Drive where PE WIM file is Copied to WinPE Folder (Default)
-6. Select Make PE button and Create in 30 seconds PE WIM file in folder Build_PE
+6. Select Make PE button and Create in 1 minute PE WIM file in folder Build_PE
    For Boot Option PE WIM file is Copied from Build_PE to WinPE folder on WinPE Drive
 7. Copy PE_Tools.zip and Drive.y to Root of any Drive e.g. USB Drive with Portable Tools
    Use 7-zip R-mouse Menu to Extract here to get PE_Tools folder with Portable PE Tools e.g. WinNTSetup and BOOTICE
