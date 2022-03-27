@@ -4,7 +4,7 @@
 **Manual:**  for Windows 10/11 x64 OS
  
 1. Download:  [Win10_2004_English_x64.iso](https://tb.rg-adguard.net/public.php) (best)     Or  [Win11_English_x64.iso](https://www.heidoc.net/joomla/technology-science/microsoft/67-microsoft-windows-and-office-iso-download-tool) (best Win11)  Or    [Win11_English_x64v1.iso](https://www.microsoft.com/en-us/software-download/windows11)
-2. Double-click on Win10_2004_English_x64.iso Or  Win11_English_x64v1.iso to Mount as DVD Drive
+2. Double-click on Win10_2004_English_x64.iso Or  Win11_English_x64.iso to Mount as DVD Drive
 3. Double-click Make_WinPE_Trusted.cmd to Launch Make_WinPE_x64.exe as Trusted Installer
 4. In Make_WinPE_x64 Select DVD Drive e.g. sources folder with boot.wim and install.wim files
 5. Option to make BCD EFI and Boot Manager Menu entries to Boot with the created PE_19041_US.wim  Or  PE_22000_US.wim file
