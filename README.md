@@ -34,7 +34,7 @@ Select Boot Drive and WinPE Drive e.g. the Drive where WIM file is located in Wi
 - ChrisR - for making Win10XPE - LARGE Version corresponds quite well to 10XPE without Apps
   https://github.com/ChrisRfr/Win10XPE
 
-- ericgl for giving Info on How to Extract files from install.wim by using wimlib-imagex using his File_List\Add_Install_Files_MEDIUM.txt
+- ericgl for giving Info on How to Extract files from install.wim by using wimlib-imagex
   http://reboot.pro/index.php?showtopic=21677&p=220611
 
 - JFX for making WinNTSetup Program for Install of Windows from ISO File
