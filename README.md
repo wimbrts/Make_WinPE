@@ -42,3 +42,6 @@ Select Boot Drive and WinPE Drive e.g. the Drive where WIM file is located in Wi
   
 - alacran for testing and helpful support and for sharing Desktop Links and SendTo Links and Launchbar for support of Portable Apps
   http://reboot.pro/index.php?showtopic=22608&p=220827  and  http://reboot.pro/index.php?showtopic=22608&p=220862
+  
+- noel for his expertise and great help in adding Printer support
+  http://reboot.pro/index.php?showtopic=22608&p=221255
