@@ -38,7 +38,7 @@ Select Boot Drive and WinPE Drive e.g. the Drive where WIM file is located in Wi
   http://reboot.pro/index.php?showtopic=21677&p=220611
 
 - JFX for making WinNTSetup Program for Install of Windows from ISO File
-  https://msfn.org/board/topic/149612-winntsetup-v52/
+  https://msfn.org/board/topic/149612-winntsetup-v534/
   
 - alacran for testing and helpful support and for sharing Desktop Links and SendTo Links and Launchbar for support of Portable Apps
   http://reboot.pro/index.php?showtopic=22608&p=220827  and  http://reboot.pro/index.php?showtopic=22608&p=220862
