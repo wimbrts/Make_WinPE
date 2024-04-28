@@ -1,7 +1,7 @@
 # Make_WinPE
 Make_WinPE - Make PE WIM file from Windows 10x64 ISO file
 
-Manual: VHD_Compact PDF
+Manual: [VHD_Compact PDF](https://github.com/wimbrts/Make_WinPE/releases)
 
 Portable Apps for WinPE in PE_Tools
 
@@ -9,13 +9,8 @@ Portable Apps for WinPE in PE_Tools
 
 **Credits and Thanks to:**
  
-- ChrisR - for making Win10XPE
-  https://github.com/ChrisRfr/Win10XPE
+- ChrisR - for making [Win10XPE](https://github.com/ChrisRfr/Win10XPE)
 
-- JFX for making WinNTSetup Program for Install of Windows from ISO File
-  https://msfn.org/board/topic/149612-winntsetup-v534/
+- JFX for making [WinNTSetup](https://msfn.org/board/topic/149612-winntsetup-v534/) Program for Install of Windows from ISO File
   
 - alacran for testing and helpful support and for sharing Desktop Links and SendTo Links and [Launchbar for support of Portable Apps](http://reboot.pro/index.php?showtopic=22608&p=221339)
-   
-- noel for his expertise and great help in adding Printer support
-  http://reboot.pro/index.php?showtopic=22608&p=221255
