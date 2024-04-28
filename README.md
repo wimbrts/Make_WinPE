@@ -15,8 +15,7 @@ Portable Apps for WinPE in PE_Tools
 - JFX for making WinNTSetup Program for Install of Windows from ISO File
   https://msfn.org/board/topic/149612-winntsetup-v534/
   
-- alacran for testing and helpful support and for sharing Desktop Links and SendTo Links and Launchbar for support of Portable Apps
-  [http://reboot.pro/index.php?showtopic=22608&p=220827  and  http://reboot.pro/index.php?showtopic=22608&p=220862](http://reboot.pro/index.php?showtopic=22608&p=221339)
-  
+- alacran for testing and helpful support and for sharing Desktop Links and SendTo Links and [Launchbar for support of Portable Apps](http://reboot.pro/index.php?showtopic=22608&p=221339)
+   
 - noel for his expertise and great help in adding Printer support
   http://reboot.pro/index.php?showtopic=22608&p=221255
