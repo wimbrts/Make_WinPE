@@ -5,8 +5,8 @@ Manual: VHD_Compact PDF
 
 Portable Apps for WinPE in PE_Tools
 
-**More Info:** [Make_WinPE - Make PE WIM File from x64 Windows ISO]([https://msfn.org/board/topic/183451-make_winpe-boot-and-make-pe-wim-file-from-x64-windows-iso/])
- 
+**More Info:** Make_WinPE - [Boot and Make PE WIM File from x64 Windows ISO](https://msfn.org/board/topic/183451-make_winpe-boot-and-make-pe-wim-file-from-x64-windows-iso/)
+
 **Credits and Thanks to:**
  
 - ChrisR - for making Win10XPE
