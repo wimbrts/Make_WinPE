@@ -15,6 +15,8 @@ Portable Apps for WinPE in [PE_Tools](https://github.com/wimbrts/Make_WinPE/rele
   
 - homes32 aka Jonathan Holmgren for making [PhoenixPE](https://github.com/PhoenixPE/PhoenixPE)
 
-WinPE with PE_Tools and WinNTSetup Apply in VHD an earlier Captured WIM file
+
+**WinPE with PE_Tools and WinNTSetup Apply in VHD an earlier Captured WIM file**
+
 ![WinPE_Apply_2024-09-30_101719](https://github.com/user-attachments/assets/b118f800-1038-4acd-b186-78cb94c32f8f)
 
